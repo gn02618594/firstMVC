@@ -167,6 +167,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Asset\images\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
